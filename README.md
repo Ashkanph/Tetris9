@@ -1,6 +1,6 @@
 # Tetris9
 Tetris 9 font, support all ascii characters
-DESIGNED BY : Ashkan & Mehrdad
+DESIGNED BY : [Ashkan](https://github.com/Ashkanph) & Mehrdad
 
 ## Table
 
